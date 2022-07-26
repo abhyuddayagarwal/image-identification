@@ -1,0 +1,29 @@
+body {
+    color: white;
+   background-color: rgb(46, 99, 146);
+
+}
+.heading{
+    width: 80%;
+    font-size: 25px;
+    background-color: khaki;
+}
+.name_of_objects {
+    color:  greenyellow;
+}
+#camera {
+border: 2px dashed red;
+width: 350px;
+height: 300px;
+
+}
+#result_object_name {
+    color: bisque;
+}
+#result_object_accuracy {
+    color: thistle;
+}
+button {
+    color: brown;
+    background-color: lightgreen ;
+}
